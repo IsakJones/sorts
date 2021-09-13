@@ -48,8 +48,8 @@ public class Heap extends Helper {
             if (less(heap[parent], heap[child])) break;
             exch(parent, child);
             parent = child;
-        } // There's no need for a comparison between child and parent,
-    }     // as we know that the sinking node is always greater than its children.
+        } 
+    }     
     public static void sort(Comparable[] arr) {
         Heap sortHeap = new Heap(arr);
         for (int i=0; i<arr.length; i++) {
