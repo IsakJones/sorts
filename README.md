@@ -7,7 +7,7 @@ This project includes ten implementations of sorting algorithms, including:
  - Shell sort;
  - Merge sort (plus improvement);
  - Quick sort (plus improvement);
- - Heap sort;
+ - Heap sort.
 
 There is also an implementation of Quick Selection, which finds the kth largest or smallest element in an array
 (in linear time) and the implementation of a heap representing a min-oriented binary tree.
