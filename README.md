@@ -1,5 +1,6 @@
 # sorts
 This project includes ten implementations of sorting algorithms, including:
+
  - Selection sort;
  - Insertion sort;
  - Bubble sort;
@@ -7,6 +8,7 @@ This project includes ten implementations of sorting algorithms, including:
  - Merge sort (plus improvement);
  - Quick sort (plus improvement);
  - Heap sort;
+
 There is also an implementation of Quick Selection, which finds the kth largest or smallest element in an array
 (in linear time) and the implementation of a heap representing a min-oriented binary tree.
 
