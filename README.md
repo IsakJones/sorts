@@ -3,7 +3,7 @@ This project includes ten implementations of sorting algorithms, including:
 
  - Selection sort;
  - Insertion sort;
- - Bubble sort;
+ - Bubble sort (plus improvement);
  - Shell sort;
  - Merge sort (plus improvement);
  - Quick sort (plus improvement);
