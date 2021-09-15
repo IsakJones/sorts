@@ -1,7 +1,8 @@
 # sorts
-This project includes eight implementations of sorting algorithms, including:
+This project includes ten implementations of sorting algorithms, including:
  - Selection sort;
  - Insertion sort;
+ - Bubble sort;
  - Shell sort;
  - Merge sort (plus improvement);
  - Quick sort (plus improvement);
