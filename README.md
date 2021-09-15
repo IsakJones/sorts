@@ -21,7 +21,7 @@ For example, shellsort has in my tests been consistently faster than mergesort, 
 outperformed other algorithms. Heapsort is also very fast, and surprisingly faster than mergesort, despite the
 intensive use of memory.
 
-These implementations draw heavy inspiration from Princeton's "[Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome)" course on Coursera,
+These implementations draw heavy inspiration from Princeton's [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome) course on Coursera,
 though I have tried to make the implementations my own by writing out the algorithms from memory after at least
 one day of the corresponding lecture, and only double-checked the slides' code if I got stuck (Quicksort was
 particularly tricky to implement).
